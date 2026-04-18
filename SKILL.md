@@ -1,3 +1,16 @@
+---
+name: News Sentiment Analyst
+version: 1.0.0
+description: "Aggregate and classify financial news sentiment into Risk-On / Risk-Off signals for market and individual stocks using the Finskills API."
+author: finskills
+homepage: https://github.com/finskills/news-sentiment-analyst
+credentials:
+  - name: FINSKILLS_API_KEY
+    description: "Finskills API key — register for free at https://finskills.net (free for general market news; Pro for symbol-specific news sentiment)"
+    required: true
+    link: https://finskills.net
+---
+
 # News Sentiment Analyst
 
 Aggregate and analyze financial news and market sentiment using the Finskills API
@@ -9,7 +22,7 @@ information before it's fully priced in.
 
 ## Setup
 
-**API Key required** (Free for general news; Pro for symbol-specific news).  
+**API Key required** — [Register at https://finskills.net](https://finskills.net) to get your free key.  
 Header: `X-API-Key: <your_api_key>`
 > **Get your API key**: Register at **https://finskills.net** — free tier available, Pro plan unlocks real-time quotes, history, and financials.
 

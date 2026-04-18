@@ -20,7 +20,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill news-sentiment-analyst
+npx skills add https://github.com/finskills/news-sentiment-analyst --skill news-sentiment-analyst
 ```
 
 ## Quick Start
@@ -51,7 +51,7 @@ Claude: [Fetches symbol-specific news, classifies sentiment, surfaces key storie
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available)
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available)
 - General market news works on **free plan**; stock-specific news requires **Pro**
 
 ## License
