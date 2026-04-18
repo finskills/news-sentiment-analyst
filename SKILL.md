@@ -1,6 +1,6 @@
 ---
 name: News Sentiment Analyst
-version: 1.0.2
+version: 1.0.3
 description: "Aggregate and classify financial news sentiment into Risk-On / Risk-Off signals for market and individual stocks using the Finskills API."
 author: finskills
 metadata:
