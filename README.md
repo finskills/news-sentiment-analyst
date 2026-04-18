@@ -19,9 +19,11 @@
 
 ## Install
 
-```bash
-npx skills add https://github.com/finskills/news-sentiment-analyst --skill news-sentiment-analyst
-```
+Add this skill via [ClawHub](https://clawhub.ai/finskills/news-sentiment-analyst):
+
+1. Visit **[https://clawhub.ai/finskills/news-sentiment-analyst](https://clawhub.ai/finskills/news-sentiment-analyst)**
+2. Click **Download zip** and follow the setup instructions
+3. Set your API key: `FINSKILLS_API_KEY=your_key_here`
 
 ## Quick Start
 
