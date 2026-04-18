@@ -51,7 +51,7 @@ Claude: [Fetches symbol-specific news, classifies sentiment, surfaces key storie
 
 ## Requirements
 
-- **Finskills API Key**: [Get one free](https://finskills.net/register)
+- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available)
 - General market news works on **free plan**; stock-specific news requires **Pro**
 
 ## License
